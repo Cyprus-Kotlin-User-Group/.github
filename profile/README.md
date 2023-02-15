@@ -5,6 +5,14 @@ Here we will post meetup anouncements and content. We are in the stage of planin
 
 ## Next meeting
 
+### Cyprus KUG 02
+- Date: 2023.03.02
+- Place: [Exness office](https://goo.gl/maps/KYjMLpkQrCvM7ePB7), Limassol
+- Time: 19:00 - 21:00
+- [Agenda and Registration form](https://www.eventbrite.com/e/cyprus-kotlin-user-group-meetup-0203-tickets-547755831437)
+
+## Past meeting
+
 ### Cyprus KUG 01
 - Date: 2022.12.20
 - Place: [Crown Plaza](https://goo.gl/maps/J5XkCB41mr3yFysAA), Limassol
