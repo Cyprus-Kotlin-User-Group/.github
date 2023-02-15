@@ -14,10 +14,12 @@ Here we will post meetup anouncements and content. We are in the stage of planin
 ## Past meeting
 
 ### Cyprus KUG 01
-- Date: 2022.12.20
-- Place: [Crown Plaza](https://goo.gl/maps/J5XkCB41mr3yFysAA), Limassol
-- Time: 18:00 - 20:00
-- [Agenda and Registration form](https://www.eventbrite.com/e/cyprus-kotlin-user-group-meetup-2012-tickets-478030140017)
+
+Date: 2022.12.20
+Place: Crown Plaza, Limassol
+Time: 18:00 - 20:00
+Talk: "Functional programming in Kotlin with Arrow", Artemiy Mikhaylov (Android developer, inDrive) In this talk, I will show some popular functional programming usage examples in Java and Kotlin and how the Arrow library can help you to use functional programming more efficiently.
+Presentation Slides
 
 ## 
 
@@ -29,3 +31,5 @@ We aim to provide a welcoming environment for attendees of any background and ex
 
 ### Support Cyprus KUG
 If you or your company wants to support Cyprus KUG in any fashion (provide a space, sponsor drinks, snacks, swag), please [fill in an issue here](https://github.com/Cyprus-Kotlin-User-Group/Cyprus-KUG/issues/new?assignees=oldtuna&labels=&template=support-proposal.md&title=). Patrons and sponsors will be featured on this page. 
+
+Cyprus KUG is supported by: JetBrains, inDrive, Exness
